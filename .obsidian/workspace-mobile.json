@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "86d9224775ac203e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb695c3d6ac8d2d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0249a62adebc2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "internet/TikTok的十亿用户之路-东方证券-20220930.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b2df474b235ece7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7b44981fd0e5758",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2620b431732b627",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "084b32cd5cae6de1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4cdce92e45dd1290",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6c42890f3be3133b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "170752a47b58fb3b",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a09bc476f645662c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "12d240127b5bb164",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "internet/TikTok的十亿用户之路-东方证券-20220930.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dc239bb3352673ac",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "internet/TikTok的十亿用户之路-东方证券-20220930.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9b3b86e798d14c3a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "internet/TikTok的十亿用户之路-东方证券-20220930.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "c0249a62adebc2d3",
+  "lastOpenFiles": [
+    "internet/TikTok的十亿用户之路-东方证券-20220930.md"
+  ]
+}
