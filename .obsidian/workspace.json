@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4c6b62d49f262cba",
+        "id": "fa5a6011d8406344",
         "type": "tabs",
-        "dimension": 22.01670644391408,
         "children": [
           {
-            "id": "3620d3ab2cb7e276",
+            "id": "990197cf0333e8fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/CV/Stable Diffusion.md",
+                "file": "eco&fin/原则：应对变化中的世界秩序-Ray Dalio.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e607f99ccf1f77ac",
-        "type": "tabs",
-        "dimension": 77.98329355608593,
-        "children": [
-          {
-            "id": "a187aa4e749351d7",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
             }
           }
         ]
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/CV/Stable Diffusion.md",
+                "file": "eco&fin/原则：应对变化中的世界秩序-Ray Dalio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/CV/Stable Diffusion.md",
+                "file": "eco&fin/原则：应对变化中的世界秩序-Ray Dalio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/CV/Stable Diffusion.md"
+                "file": "eco&fin/原则：应对变化中的世界秩序-Ray Dalio.md"
               }
             }
           }
@@ -162,10 +146,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3620d3ab2cb7e276",
+  "active": "990197cf0333e8fb",
   "lastOpenFiles": [
-    "internet/TikTok的十亿用户之路-东方证券-20220930.md",
     "AI/CV/Stable Diffusion.md",
+    "eco&fin/金融的价值-黄益平.md",
+    "eco&fin/原则：应对变化中的世界秩序-Ray Dalio.md",
+    "internet/TikTok的十亿用户之路-东方证券-20220930.md",
     "AI/CV",
     "AI",
     "随想/分配.md",
@@ -173,7 +159,6 @@
     "internet",
     "README.md",
     "LICENSE",
-    "eco&fin/金融的价值-黄益平.md",
     "随想",
     "Pasted image 20230226224852.png",
     "未命名.canvas",
