@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fa5a6011d8406344",
+        "id": "9679f4ae7ceb3a64",
         "type": "tabs",
         "children": [
           {
-            "id": "990197cf0333e8fb",
+            "id": "44e59980dace0051",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "eco&fin/原则：应对变化中的世界秩序-Ray Dalio.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eco&fin/原则：应对变化中的世界秩序-Ray Dalio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eco&fin/原则：应对变化中的世界秩序-Ray Dalio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "eco&fin/原则：应对变化中的世界秩序-Ray Dalio.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,19 +130,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "990197cf0333e8fb",
+  "active": "44e59980dace0051",
   "lastOpenFiles": [
+    "AI/LLM Usage.md",
+    "eco&fin/原则：应对变化中的世界秩序-Ray Dalio.md",
     "AI/CV/Stable Diffusion.md",
     "随想/分配.md",
-    "eco&fin/原则：应对变化中的世界秩序-Ray Dalio.md",
     "eco&fin/金融的价值-黄益平.md",
     "internet/TikTok的十亿用户之路-东方证券-20220930.md",
     "AI/CV",
